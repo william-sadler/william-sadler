@@ -61,3 +61,4 @@ Looking forward to connecting and collaborating on exciting projects!
 - **Email**: [williamsadler37@gmail.com](mailto:williamsadler37@gmail.com)
 - **LinkedIn**: [linkedin.com/in/william-sadler-nz](https://linkedin.com/in/william-sadler-nz)
 - **GitHub**: [github.com/william-sadler](https://github.com/william-sadler)
+- **CV/Resume**: [PDF download](https://raw.githubusercontent.com/william-sadler/william-sadler/refs/heads/main/WilliamSadlerCV-2024-Sep-Updated.pdf)
