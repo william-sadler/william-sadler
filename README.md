@@ -1,4 +1,5 @@
-# 👋 Hi there! I’m William
+# 👋 Welcome to my profile!⚡I’m William
+&nbsp;  
 
 ## 🚀 About Me
 I'm a Full Stack Developer with a passion for problem-solving and creativity, recently graduated from Dev Academy, Aotearoa. My journey in tech is fueled by my love for video games, which inspires my coding projects and artistic endeavors. I aspire to become a game developer, leveraging technology to create meaningful applications that make a positive impact.
@@ -24,8 +25,11 @@ I’m a huge fan of video games! They not only fuel my creativity but also influ
 ---
 
 ## 🌟 Projects
+
 ### 🖥 Portfolio & Dungeon Crawler Game
 Currently developing a full-stack dungeon crawler/creature collector game to showcase my skills and creativity.
+
+&nbsp;  
 
 ### 💚 DonateMate
 As part of my final group project at Dev Academy, I led the development of **DonateMate**—an app that connects donors with organizations in need. My contributions included:
@@ -34,6 +38,7 @@ As part of my final group project at Dev Academy, I led the development of **Don
 - Creating a user-friendly form for organizations to manage their profiles
 
 Check it out [here](github repo).
+
 
 ---
 
@@ -46,9 +51,11 @@ Check it out [here](github repo).
 - Time Management
 - Quick Learner
 
+
 Looking forward to connecting and collaborating on exciting projects!
 
----
+
+&nbsp;  
 
 ## 📫 Get in Touch
 - **Email**: [williamsadler37@gmail.com](mailto:williamsadler37@gmail.com)
