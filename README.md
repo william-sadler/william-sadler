@@ -37,7 +37,7 @@ As part of my final group project at Dev Academy, I led the development of **Don
 - Developing filtering and searching functionalities
 - Creating a user-friendly form for organizations to manage their profiles
 
-Check it out [here](github repo).
+Check it out [donatemate.pushed.nz](https://donatemate.pushed.nz/).
 
 
 ---
